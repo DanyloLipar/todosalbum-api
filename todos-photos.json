@@ -1,0 +1,54 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 3,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 5,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ],
+    "photos": [
+        {
+            "id": 1,
+            "title": "Ukraine",
+            "album": [
+                {
+                    "url": "https://greentourua.com/wp-content/uploads/2020/07/carpathians.jpg",
+                    "desc": "The Carpathian Mountains"
+                },
+                {
+                    "url": "https://khers-on.com/wp-content/uploads/2021/01/bakota-panoramniy-vid.jpg",
+                    "desc": "Bakota"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Cars",
+            "album": [
+                {
+                    "url": "https://i.infocar.ua/i/2/5717/109780/1920x.jpg",
+                    "desc": "AUDI A4"
+                },
+                {
+                    "url": "https://cdn.myauto.ua/overview/bmw-3-series-2022-128-huge-2124.jpg",
+                    "desc": "BMW 3 series"
+                }
+            ]
+        }
+    ]
+}
